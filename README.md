@@ -1,4 +1,4 @@
-## See Live Demo : <strong><em>[Tic-Tac-Toe](https://asa2468.github.io/Countdown_Game/)</em></strong>
+## See Live Demo : <strong><em>[The Countdown Game](https://asa2468.github.io/Countdown_Game/)</em></strong>
 <br>
 
 ##
@@ -90,7 +90,7 @@ Clone the project into local and install all the npm packages. In the project fo
   Intuitive and responsive user interface allowing players to interact seamlessly with the game.
 
 - **Player Name:**
-  Names of player can be customized.
+  Name of player can be customized.
     
 - **Precision Scoring:**
   Score calculation based on how close the player stops the timer to the target time, rewarding precision.
